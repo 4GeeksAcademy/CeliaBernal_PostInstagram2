@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+    font-family: "Roboto"
+}
+
+.post {
+    background-color: aliceblue;
+    width: 500px;
+    margin: 0 auto;
+    
+}
+
+img {
+    display: block;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100%;
+  }
+
+.parr {
+    padding: 10px;
+}
+
+.post-header {
+    padding: 10px;
+    align-items:center;
+    display: flex;
+
+}
+
+
+.a,.b,.c,.save {
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+
+
+.save {
+    float: inline-end;
+}
+
+.first-icons, .save {
+    display:inline-flex;
+    margin-right: 10px;
+}
+
+.e {
+    width: 100%;
+    padding-left: 10px;
+}
+.dots {
+    margin-left: auto;
+}
+
